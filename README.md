@@ -2,10 +2,12 @@
 ### Sou um desenvolvedor web em constante evolução para contribuir com o futuro do mundo da tecnologia 💻🖥.
 
 -🤖Tecnolgias:(HTML, CSS, Tailwind, Bootstrap, Javascript, Typescript, Git);
+
 -🎨Projetos d layout:(Canva);
+
 -📚Tecnologia que estou estudando:(React.js - B7Web);
 
-![Lucas-Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Lucas-Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Abner&show_icons=true&theme=radical)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
