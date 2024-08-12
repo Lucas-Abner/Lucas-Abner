@@ -1,9 +1,9 @@
 ### Hi there 👋
 ### Sou um desenvolvedor web em constante evolução para contribuir com o futuro do mundo da tecnologia 💻🖥.
 
--🤖Tecnolgias:(HTML, CSS, Tailwind, Bootstrap, Javascript, Typescript, Git);
+-🤖Tecnolgias:(HTML, CSS, Tailwind, Bootstrap, Javascript, Typescript, JQuery, PHP, MySQL, Git);
 
--🎨Projetos d layout:(Canva);
+-🎨Projetos de layout:(Canva);
 
 -📚Tecnologia que estou estudando:(PHP - Master D);
 
