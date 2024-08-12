@@ -5,7 +5,7 @@
 
 -🎨Projetos d layout:(Canva);
 
--📚Tecnologia que estou estudando:(React.js - B7Web);
+-📚Tecnologia que estou estudando:(PHP - Master D);
 
 ![Lucas-Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Abner&show_icons=true&theme=radical)
 
