@@ -1,18 +1,29 @@
-### Hi there 👋
-### Sou um desenvolvedor web em constante evolução para contribuir com o futuro do mundo da tecnologia 💻🖥.
+# Olá, sou o Lucas Abner! 👋
 
--🤖Tecnolgias:(HTML, CSS, Tailwind, Bootstrap, Javascript, Typescript, JQuery, PHP, MySQL, Git);
+### Desenvolvedor & Explorador de Inteligência Artificial
 
--🎨Projetos de layout:(Canva);
+Fascinado pelo potencial da tecnologia, comecei minha carreira como desenvolvedor web, construindo a base sólida que me permite hoje explorar a fronteira da inovação: a **Inteligência Artificial**.
 
--📚Tecnologia que estou estudando:(PHP - Master D);
+Atualmente, meu foco é mergulhar no universo dos **Large Language Models (LLMs)** e no desenvolvimento de **Agentes de IA**, buscando formas de criar interações mais naturais e inteligentes entre humanos e máquinas.
 
-![Lucas-Abner GitHub stats](https://github-readme-stats.vercel.app/api?username=Lucas-Abner&show_icons=true&theme=radical)
+- 🤖 **Tecnologias de IA que estou explorando:**
+  - `Python` (a linguagem principal para IA)
+  - Frameworks como `LangChain` e `TensorFlow`
+  - APIs de LLMs como `OpenAI API` e `Google Gemini`
 
+- 💻 **Minhas Habilidades Fundamentais:**
+  - **Front-end:** `HTML`, `CSS`, `Tailwind`, `JavaScript`, `TypeScript`
+  - **Back-end:** `PHP`, `MySQL`
+  - **Versionamento:** `Git`
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
+- 🚀 **O que estou aprendendo agora:**
+  - Aprofundando em `Python` e arquitetura de sistemas de IA.
 
+Acredito que estamos no início de uma nova era tecnológica, e estou animado para ser um dos arquitetos desse futuro.
 
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+---
 
+### 📊 Minhas Estatísticas no GitHub
 
+[![Estatísticas do GitHub de Lucas-Abner](https://github-readme-stats.vercel.app/api?username=Lucas-Abner&show_icons=true&theme=radical&include_all_commits=true&count_private=true )](https://github.com/Lucas-Abner )
+[![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-Abner&layout=compact&langs_count=8&theme=radical )](https://github.com/Lucas-Abner )
