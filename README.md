@@ -8,9 +8,9 @@ Atualmente, estou explorando o poder das **Large Language Models (LLMs)**, **age
 
 ### ⚡️ Tecnologias que domino
 
--   **Desenvolvimento Web:** `HTML`, `CSS`, `Tailwind`, `Bootstrap`, `JavaScript`, `TypeScript`, `JQuery`, `PHP`, `MySQL`, `Git`
--   **Inteligência Artificial & Data Science:** `Python`, `Pandas`, `Numpy`, `Scikit-learn`, `LangChain`, `CrewAI`, `RAG (Retrieval-Augmented Generation)`
--   **Infraestrutura:** `Virtualenv`, `Docker/Singularity` (ambientes isolados para IA), `Cloud & Big Data`
+-   **Desenvolvimento Web:** `HTML` `CSS` `Tailwind` `Bootstrap` `JavaScript` `TypeScript` `JQuery` `PHP` `MySQL` `Git`
+-   **Inteligência Artificial & Data Science:** `Python` `Pandas` `Numpy` `Scikit-learn` `LangChain` `CrewAI` `RAG (Retrieval-Augmented Generation)`
+-   **Infraestrutura:** `Virtualenv` `Docker/Singularity` (ambientes isolados para IA), `Cloud & Big Data`
 
 ---
 
